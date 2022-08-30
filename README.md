@@ -1,3 +1,6 @@
 # Learn-with-Krish
 
-This contains the Equal Implementation project for Employee Class.
+1. Equal Implementation project for Employee Class.
+2. Simple JSP/Servelet Program
+
+
