@@ -5,6 +5,6 @@
 3. Asynchronous Microservice with Kafka
 4. SOAP Webservice
 5. Threads Practise Project
-6. Spring
+6. Spring Project
 
 
