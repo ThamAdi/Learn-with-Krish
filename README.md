@@ -6,5 +6,7 @@
 4. SOAP Webservice
 5. Threads Practise Project
 6. Spring Project
+7. Angular Project
+8. Hello World Java Program in Docker
 
 
