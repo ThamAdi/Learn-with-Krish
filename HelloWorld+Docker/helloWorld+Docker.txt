@@ -1,1 +1,2 @@
 
+This project contains Hello World java program put into Docker.
